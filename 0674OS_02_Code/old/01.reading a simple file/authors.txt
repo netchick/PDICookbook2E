@@ -1,0 +1,10 @@
+"lastname","firstname","country","birthyear"
+"Larsson","Stieg","Swedish",1954
+"King","Stephen","American",1947
+"Hiaasen","Carl ","American",1953
+"Handler","Chelsea ","American",1975
+"Ingraham","Laura ","American",1964
+"Ramsey","Dave ","American",1960
+"Kiyosaki","Robert ","American",1947,"A00007"
+"Rowling","Joanne ","English",1965
+"Riordan","Rick ","American",1964

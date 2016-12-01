@@ -1,0 +1,12 @@
+CREATE TABLE nyse (
+exchange STRING,
+stock_symbol STRING,
+date STRING,
+stock_price_open DOUBLE,
+stock_price_high DOUBLE,
+stock_price_low	stock_price_close DOUBLE,
+stock_volume INT,
+stock_price_adj_close DOUBLE
+)
+ROW FORMAT DELIMITED
+FIELDS TERMINATED BY '\t';

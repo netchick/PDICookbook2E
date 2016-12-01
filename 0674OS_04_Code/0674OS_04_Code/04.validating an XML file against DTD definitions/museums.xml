@@ -1,0 +1,30 @@
+<!DOCTYPE museums [  
+<!ELEMENT museums (museum+)>
+<!ELEMENT museum (name+, city, country)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT city (#PCDATA)>
+<!ELEMENT country (#PCDATA)>
+<!ATTLIST museum id_museum CDATA #REQUIRED >
+ ]>
+ 
+<museums>
+ 	<museum>
+       <name>Fundacion Federico Klemm</name> 
+       <city>Buenos Aires</city>
+       <country>Argentina</country> 
+   </museum>
+ 	<museum id_museum= '2'> 
+        <name>Fundacion Proa</name>
+        <city>Buenos Aires</city> 
+        <country>Argentina</country> 
+   </museum>
+   <museum id_museum= '9'> 
+        <name>Museu Nacional de Belas Artes</name> 
+         <country>Brazil</country> 
+   </museum>
+   <museum id_museum= '19'> 
+      <name>Biblioteca Luis Angel Arango</name>
+        <city>Bogota</city> 
+        <country>Colombia</country> 
+   </museum>
+</museums>

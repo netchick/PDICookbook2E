@@ -1,0 +1,6 @@
+<museums>
+ <museum id_museum= '110'> <name>Museo Fortuny</name> <city>Venice              </city> <country>Italy               </country> </museum>
+ <museum id_museum= '111'> <name>Palazzo Ducale</name> <city>Venice              </city> <country>Italy               </country> </museum>
+ <museum id_museum= '112'> <name>Palazzo Grassi</name> <city>Venice              </city> <country>Italy               </country> </museum>
+ <museum id_museum= '113'> <name>Querini Stampalia Foundation Museum</name> <city>Venice              </city> <country>Italy               </country> </museum>
+</museums>

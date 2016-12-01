@@ -1,0 +1,8 @@
+SELECT   
+	category
+	, COUNT(*) quantity
+FROM     products p
+	, categories c
+WHERE    p.id_category=c.id_category
+   AND      price<=50
+GROUP BY p.id_category;

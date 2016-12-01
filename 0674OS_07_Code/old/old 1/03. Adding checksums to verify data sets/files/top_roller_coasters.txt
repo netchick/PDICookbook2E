@@ -1,0 +1,16 @@
+Roller_Coaster|Speed|park|location|country|Year
+Kingda Ka|128 mph|Six Flags Great Adventure|Jackson, New Jersey||2005
+Top Thrill Dragster|120 mph|Cedar Point|Sandusky, Ohio||2003
+Dodonpa|106.8 mph|Fuji-Q Highland|FujiYoshida-shi|Japan|2001
+Steel Dragon 2000|95 mph|Nagashima Spa Land|Mie|Japan|2000
+Millennium Force|93 mph|Cedar Point|Sandusky, Ohio||2000
+Intimidator 305|90 mph|Kings Dominion|Doswell, Virginia||2010
+Goliath|85 mph|Six Flags Magic Mountain|Valencia, California||2000
+Titan|85 mph|Six Flags Over Texas|Arlington, Texas||2001
+Phantom's Revenge|85 mph|Kennywood|West Mifflin, Pennsylvania||2001
+Furious Baco|84 mph|Port Aventura|Spain||2007
+Xcelerator|82 mph|Knott's Berry Farm|Buena Park, California||2002
+Fujiyama|81 mph|Fuji-Q Highland|FujiYoshida-shi|Japan|1996
+Thunder Dolphin|81 mph|Tokyo Dome City|Tokyo|Japan|2003
+Son of Beast|78.3 mph|Kings Island|Cincinnati, Ohio||2000
+Colossos|74.6 mph|Heide Park|Soltau|Germany|2001

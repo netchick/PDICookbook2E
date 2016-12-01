@@ -1,0 +1,11 @@
+code|genre|title|author|comment|price
+123-400|Fiction|The Girl with the Dragon Tattoo|Larsson, Stieg|In Stock|34.98
+123-401|Fiction|The Girl Who Played with Fire|Larsson, Stieg|In Stock|35.99
+123-402|Fiction|The Girl Who Kicked the Hornet's Nest|Larsson, Stieg|In Stock|37.99
+123-602|Fiction|Freedom: A Novel|Franzen,Jonathan|In Stock|28.00
+223-655|Non-fiction|Eat, Pray, Love: One Woman's Search for Everything Across Italy, India and Indonesia|Gilbert, Elizabeth|NEW|36.00
+223-701|Non-fiction|A Journey: My Political Life|Blair,Tony|NEW|35.00
+323-609|Non-fiction|The Business of the 21st Century|Kiyosaki,Robert|NEW|24.45
+523-110|Teens|Mockingjay|Collins, Suzanne|NEW|37.99
+523-111|Teens|Catching Fire|Collins, Suzanne|In Stock|37.99
+523-112|Teens|The Hunger Games|Collins, Suzanne|In Stock|37.99

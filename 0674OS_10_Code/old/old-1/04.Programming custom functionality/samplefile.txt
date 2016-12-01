@@ -1,0 +1,5 @@
+This is a sample text.
+Another text with special characters, , ,  END OF FILE
+hello,man
+I whish you a happy new year:2011
+The,last.but,not;the.least

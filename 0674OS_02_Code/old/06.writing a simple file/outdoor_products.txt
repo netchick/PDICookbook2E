@@ -1,0 +1,68 @@
+desc_product;category;price
+Swedish Firesteel - Army Model;kitchen;$19,00
+Mountain House #10 Can Freeze-Dried Food;kitchen;$53,00
+Lodge Logic L9OG3 Pre-Seasoned 10-1/2-Inch Round Griddle;kitchen;$14,00
+Lodge Logic L5SK3 Pre-Seasoned Cast-Iron 8-Inch Skillet;kitchen;$12,00
+Coleman 70-Quart Xtreme Cooler (Blue);kitchen;$59,00
+Kelsyus Floating Cooler;kitchen;$26,00
+Lodge LCC3 Logic Pre-Seasoned Combo Cooker;kitchen;$41,00
+Guyot Designs SplashGuard-Universal;kitchen;$7,00
+Coleman 62-Quart Xtreme Wheeled Cooler (Blue);kitchen;$62,00
+Coleman RoadTrip Accessory Stove Grate;kitchen;$16,00
+Coleman PerfectFlow InstaStart 2-Burner Stove;kitchen;$69,00
+Coleman High-Pressure Propane Hose and Adapter;kitchen;$24,00
+Coleman Speckled Enamelware Dining Kit;kitchen;$38,00
+Light My Fire Titanium Spork;kitchen;$10,00
+California Innovations Eco Blend 45 Can Freezer Tote;kitchen;$17,00
+Insulated Thermal Cooler Bag Lunch Box (PVC FREE Material) Navy Blue 6 CAN OR 24 CAN;kitchen;$8,00
+Coleman Cooler Hinges;kitchen;$5,00
+Swedish Firesteel- Scout Model;kitchen;$19,00
+Columbia 50 Can High Performance Rolling Cooler;kitchen;$44,00
+Coleman 100-Quart Xtreme Wheeled Cooler (Blue);kitchen;$79,00
+Coleman Road Trip Cast-Iron Griddle;kitchen;$26,00
+Sigg Classic Bottle - Traveller (1.0-Liters);kitchen;$24,00
+Light My Fire Spork 4-Pack;kitchen;$13,00
+Kwik Tek Airhead Aqua Oasis;kitchen;$29,00
+Rayovac SE3DLN Sportsman Extreme 300-Lumen 3D-Battery LED Lantern;lights;$25,00
+Petzl E97 PP Tikka Plus 2 Headlamp, Pistachio;lights;$39,00
+Streamlight 66118 Stylus Pro Black LED Pen Flashlight with Holster;lights;$18,00
+Neiko Super-Bright 9 LED Heavy-Duty Compact Aluminum Flashlight - Cool Blue Color;lights;$4,00
+Neiko Super-Bright 9 LED Heavy-Duty Compact Aluminum Flashlight - Gunmetal Silver;lights;$4,00
+Dorcy 41-4750 180-Lumen 4AA High Flux LED Cyber Light Flashlight;lights;$21,00
+Mag-Lite ST3D016 3-D Cell LED Flashlight, Black;lights;$22,00
+Coleman 4D Rugged Personal Size Rugged Lantern;lights;$17,00
+Super-Bright 9 LED Heavy-Duty Compact Aluminum Flashlight - Jet Black;lights;$4,00
+Petzl E41 PBY Tikkina 2-LED Headlamp, Black and Yellow;lights;$19,00
+Streamlight 73001 Nano Light Miniature Keychain LED Flashlight, Black;lights;$8,00
+Petzl E49P TacTikka Plus 4-LED Headlamp, Black;lights;$43,00
+Duracell Daylite 80-Lumens, 3-Watt LED Flashlight with 2-AA Alkaline Batteries;lights;$28,00
+Fenix LD 20 6 Level High Performance Cree LED Flashlight, Black, 6- Inch, Maximum 180 Lumens;lights;$54,00
+Streamlight 66318 MicroStream LED Pen Flashlight;lights;$16,00
+Suisse Sport Adult Adventurer Mummy Ultra-Compactable Sleeping Bag;sleeping bags;$34,00
+Eureka Grasshopper Kids 30-Degree Sleeping Bag;sleeping bags;$32,00
+Eureka! Lady Bug Sleeping Bag;sleeping bags;$28,00
+Teton Sports Celsius XL 0-Degree Sleeping Bag;sleeping bags;$89,00
+Coleman Palmetto Cool-Weather Sleeping Bag;sleeping bags;$24,00
+Stansport Redwood Ultra Light Sleeping Bag (Green, 45-Degree);sleeping bags;$22,00
+Coleman Red Canyon 17-Foot by 10-Foot 8-Person Modified Dome Tent;tents;$99,00
+Coleman Instant 14- by 10- Foot 8- Person Two Room Tent;tents;$183,00
+Coleman SunDome 7-Foot by 7-Foot 3-Person Dome Tent (Orange/Gray);tents;$56,00
+"Eureka Apex 2XT Adventure 7' 5"" by 4' 11"" Two-Person Tent";tents;$104,00
+Wenzel Alpine 8.5 X 8-Feet Dome Tent (Light Grey/Blue/Gold);tents;$45,00
+Coleman Hooligan 2 Backpacking Tent;tents;$49,00
+Coleman WeatherMaster 8 Tent;tents;$206,00
+Coleman Sundome Tent (10-Feet x 10-Feet);tents;$98,00
+Wenzel Pine Ridge 10-by-8 Foot Four-to-Five-Person 2-Room Dome Tent;tents;$47,00
+Wenzel Twin Peaks Sport Dome Tent, Red/Black;tents;$38,00
+Eureka Solo Backcountry 1 Tent;tents;$122,00
+Kelty Grand Mesa 2-Person Tent (Ruby/Tan);tents;$107,00
+Victorinox Swiss Army Classic Pocket Knife;tools;$20,00
+Victorinox Swiss Army Tinker and Classic Knife Combo;tools;$17,00
+Victorinox Swiss Army Champion Plus Pocket Knife;tools;$34,00
+Leatherman 830039 New Wave Multitool with Leather/Nylon Combination Sheath;tools;$93,00
+Leatherman 931009 Bit Driver Extension;tools;$10,00
+Leatherman 831207 Style CS Clip-On Multi-Tool with Scissors;tools;$16,00
+Victorinox Swiss Army Climber II Pocket Knife;tools;$16,00
+Gerber 01471 Suspension Butterfly Opening Multi-Plier, with Sheath;tools;$25,00
+Leatherman 830040 New Wave Multi-Tool with Nylon Sheath;tools;$93,00
+Leatherman 831195 Squirt PS4 Black Keychain Tool with Plier;tools;$23,00

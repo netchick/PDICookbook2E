@@ -1,0 +1,38 @@
+﻿drop database books;
+create database books;
+use books;
+
+CREATE TABLE authors
+(
+  lastname TINYTEXT NOT NULL
+, firstname TINYTEXT NOT NULL
+, nationality VARCHAR(50) DEFAULT 'unknown'
+, birthyear INT default 1900
+, id_author CHAR(6) PRIMARY KEY
+)
+;
+
+CREATE TABLE books
+(
+  id_title CHAR(7) PRIMARY KEY
+, title TINYTEXT NOT NULL
+, id_author TINYTEXT NOT NULL
+, price DOUBLE DEFAULT 0
+, genre VARCHAR(30) DEFAULT 'unknown'
+)
+;
+
+INSERT INTO authors
+(lastname, firstname, nationality, birthyear, id_author)
+VALUES
+('Smith', 'Author', 'England', '1954', 1),
+('Writer', 'Ghost', 'United States', '1990', 2)
+('Anonymous', 'Writer', 'France', '1779', 3);
+
+INSERT INTO books
+(id_title, title, id_author, price, genre)
+VAlUES
+(1, '1950s England, A Retrospective', 1, '17.95', 'History'),
+(2, 'How to Write For Others', 2, '40.00', 'Self Help'),
+(3, 'Poems: A Collection', 3, '25.00', 'Poetry'),
+(4, 'Recognizing The Hidden', 2, '15.00', 'Fantasy');

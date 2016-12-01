@@ -1,0 +1,46 @@
+Roller Coaster       Speed      Location                     Year
+Kingda Ka            128 mph    Six Flags Great Adventure        
+                                Jackson, New Jersey          2005
+Top Thrill Dragster  120 mph    Cedar Point                      
+                                Sandusky, Ohio               2003
+Dodonpa              106.8 mph  Fuji-Q Highland                  
+                                FujiYoshida-shi              2001
+                                Japan                            
+Steel Dragon 2000    95 mph     Nagashima Spa Land               
+                                Mie                          2000
+                                Japan                            
+Millennium Force     93 mph     Cedar Point                      
+                                Sandusky, Ohio               2000
+Intimidator 305      90 mph     Kings Dominion                   
+                                Doswell, Virginia            2010
+Goliath              85 mph     Six Flags Magic Mountain         
+                                Valencia, California         2000
+Titan                85 mph     Six Flags Over Texas             
+                                Arlington, Texas             2001
+Phantom's Revenge    85 mph     Kennywood                        
+                                West Mifflin, Pennsylvania   2001
+Furious Baco         84 mph     PortAventura                     
+                                Spain                        2007
+Xcelerator           82 mph     Knott's Berry Farm               
+                                Buena Park, California       2002
+Fujiyama             81 mph     Fuji-Q Highland                  
+                                FujiYoshida-shi              1996
+                                Japan                            
+Thunder Dolphin      81 mph     Tokyo Dome City                  
+                                Tokyo                        2003
+                                Japan                            
+Son of Beast         78.3 mph   Kings Island                     
+                                Cincinnati, Ohio             2000
+Colossos             74.6 mph   Heide Park                       
+                                Soltau                       2001
+                                Germany                          
+El Toro              70 mph     Six Flags Great Adventure        
+                                Jackson, New Jersey          2006
+The Boss             66.3 mph   Six Flags St. Louis              
+                                Eureka, Missouri             2000
+American Eagle       66 mph     Six Flags Great America          
+                                Gurnee, Illinois             1981
+Mean Streak          65 mph     Cedar Point                      
+                                Sandusky, Ohio               1991
+T Express            65 mph     Everland                         
+                                South Korea                  2008

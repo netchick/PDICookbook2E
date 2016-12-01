@@ -1,0 +1,1 @@
+create 'school', ‘key’, 'schoolID', 'schoolName', 'schoolCity', 'schoolState', 'schoolNick', 'playerID', 'nameFirst', 'nameLast', 'nameNick', 'yearMin', 'yearMax'

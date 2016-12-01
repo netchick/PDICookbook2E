@@ -1,0 +1,11 @@
+attraction|park_name|top_speed|trains_qt|ride_time
+Expedition Everest|Disney's Animal Kingdom|50 mph|6 - 34 passenger|
+Goofy'S Barnstormer|Disney's Magic Kingdom|25 mph|2 - 16 passenger|
+Gwazi|Busch Gardens Tampa|50 mph|4 - 24 passenger|2 minutes, 30 seconds
+Journey To Atlantis|SeaWorld Orlando||8 passenger boats|
+Kraken|SeaWorld Orlando|65 mph|3 - 32 passenger|2 minutes, 2 seconds
+Kumba|Busch Gardens Tampa|60 mph|4 - 32 passenger|2 minutes, 54 seconds
+Manta|SeaWorld Orlando|56 mph|3 - 32 passenger|2 minutes, 35 seconds
+Montu|Busch Gardens Tampa|60 mph|3 - 32 passenger|3 minutes
+Shamu Express|SeaWorld Orlando|28 mph|1 - 28 passenger|
+Sheikra|Busch Gardens Tampa|70 mph|5 - 24 passenger|3 minutes

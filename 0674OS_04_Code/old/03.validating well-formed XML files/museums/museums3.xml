@@ -1,0 +1,25 @@
+<museums>
+ <museum id_museum= '91'> <name>Museo Napoleonico</name> <city>Rome                </city> <country>Italy               </country> </museum>
+ <museum id_museum= '92'> <name>Palazzo Barberini</name> <city>Rome                </city> <country>Italy               </country> </museum>
+ <museum id_museum= '93'> <name>Palazzo Colonna Gallery</name> <city>Rome                </city> <country>Italy               </country> </museum>
+ <museum id_museum= '94'> <name>Palazzo delle Esposizioni</name> <city>Rome                </city> <country>Italy               </country> </museum>
+ <museum id_museum= '95'> <name>Palazzo Montecitorio</name> <city>Rome                </city> <country>Italy               </country> </museum>
+ <museum id_museum= '96'> <name>Palazzo Ruspoli</name> <city>Rome                </city> <country>Italy               </country> </museum>
+ <museum id_museum= '97'> <name>Scuderie del Quirinale</name> <city>Rome                </city> <country>Italy               </country> </museum>
+ <museum id_museum= '98'> <name>Castello di Rivoli Museo d&apos;Arte Contemporanea</name> <city>Turin               </city> <country>Italy               </country> </museum>
+ <museum id_museum= '99'> <name>Fondazione Accorsi Museum of Decorative Arts</name> <city>Turin               </city> <country>Italy               </country> </museum>
+ <museum id_museum= '100'> <name>Galleria Sabauda</name> <city>Turin               </city> <country>Italy               </country> </museum>
+ <museum id_museum= '101'> <name>GAM - Galleria Civica d&apos;Arte Moderna e Contemporanea</name> <city>Turin               </city> <country>Italy               </country> </museum>
+ <museum id_museum= '102'> <name>Palazzo Bricherasio</name> <city>Turin               </city> <country>Italy               </country> </museum>
+ <museum id_museum= '103'> <name>Palazzo Cavour</name> <city>Turin               </city> <country>Italy               </country> </museum>
+ <museum id_museum= '104'> <name>Peggy Guggenheim Collection</name> <city>Venice              </city> <country>Italy               </country> </museum>
+ <museum id_museum= '105'> <name>Ca&apos; Rezzonico - Museo del Settecento Veneziano</name> <city>Venice              </city> <country>Italy               </country> </museum>
+ <museum id_museum= '106'> <name>Fondazione Bevilacqua La Masa</name> <city>Venice              </city> <country>Italy               </country> </museum>
+ <museum id_museum= '107'> <name>Gallerie dell&apos;Accademia</name> <city>Venice              </city> <country>Italy               </country> </museum>
+ <museum id_museum= '108'> <name>Museo Ca&apos; Pesaro</name> <city>Venice              </city> <country>Italy               </country> </museum>
+ <museum id_museum= '109'> <name>Museo Correr</name> <city>Venice              </city> <country>Italy               </country> </museum>
+ <museum id_museum= '110'> <name>Museo Fortuny</name> <city>Venice              </city> <country>Italy               </country> </museum>
+ <museum id_museum= '111'> <name>Palazzo Ducale</name> <city>Venice              </city> <country>Italy               </country> </museum>
+ <museum id_museum= '112'> <name>Palazzo Grassi</name> <city>Venice              </city> <country>Italy               </country> </museum>
+ <museum id_museum= '113'> <name>Querini Stampalia Foundation Museum</name> <city>Venice              </city> <country>Italy               </country> </museum>
+</museums>

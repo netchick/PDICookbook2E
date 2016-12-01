@@ -1,0 +1,73 @@
+desc_product;qty_prod
+CATEGORY: KITCHEN;24
+Swedish Firesteel- Scout Model;
+Swedish Firesteel - Army Model;
+Sigg Classic Bottle - Traveller (1.0-Liters);
+Mountain House #10 Can Freeze-Dried Food;
+Lodge Logic L9OG3 Pre-Seasoned 10-1/2-Inch Round Griddle;
+Lodge Logic L5SK3 Pre-Seasoned Cast-Iron 8-Inch Skillet;
+Lodge LCC3 Logic Pre-Seasoned Combo Cooker;
+Light My Fire Titanium Spork;
+Light My Fire Spork 4-Pack;
+Kwik Tek Airhead Aqua Oasis;
+Kelsyus Floating Cooler;
+Insulated Thermal Cooler Bag Lunch Box (PVC FREE Material) Navy Blue 6 CAN OR 24 CAN;
+Guyot Designs SplashGuard-Universal;
+Columbia 50 Can High Performance Rolling Cooler;
+Coleman Speckled Enamelware Dining Kit;
+Coleman RoadTrip Accessory Stove Grate;
+Coleman Road Trip Cast-Iron Griddle;
+Coleman PerfectFlow InstaStart 2-Burner Stove;
+Coleman High-Pressure Propane Hose and Adapter;
+Coleman Cooler Hinges;
+Coleman 70-Quart Xtreme Cooler (Blue);
+Coleman 62-Quart Xtreme Wheeled Cooler (Blue);
+Coleman 100-Quart Xtreme Wheeled Cooler (Blue);
+California Innovations Eco Blend 45 Can Freezer Tote;
+CATEGORY: LIGHTS;15
+Super-Bright 9 LED Heavy-Duty Compact Aluminum Flashlight - Jet Black;
+Streamlight 73001 Nano Light Miniature Keychain LED Flashlight, Black;
+Streamlight 66318 MicroStream LED Pen Flashlight;
+Streamlight 66118 Stylus Pro Black LED Pen Flashlight with Holster;
+Rayovac SE3DLN Sportsman Extreme 300-Lumen 3D-Battery LED Lantern;
+Petzl E97 PP Tikka Plus 2 Headlamp, Pistachio;
+Petzl E49P TacTikka Plus 4-LED Headlamp, Black;
+Petzl E41 PBY Tikkina 2-LED Headlamp, Black and Yellow;
+Neiko Super-Bright 9 LED Heavy-Duty Compact Aluminum Flashlight - Gunmetal Silver;
+Neiko Super-Bright 9 LED Heavy-Duty Compact Aluminum Flashlight - Cool Blue Color;
+Mag-Lite ST3D016 3-D Cell LED Flashlight, Black;
+Fenix LD 20 6 Level High Performance Cree LED Flashlight, Black, 6- Inch, Maximum 180 Lumens;
+Duracell Daylite 80-Lumens, 3-Watt LED Flashlight with 2-AA Alkaline Batteries;
+Dorcy 41-4750 180-Lumen 4AA High Flux LED Cyber Light Flashlight;
+Coleman 4D Rugged Personal Size Rugged Lantern;
+CATEGORY: SLEEPING BAGS;6
+Teton Sports Celsius XL 0-Degree Sleeping Bag;
+Suisse Sport Adult Adventurer Mummy Ultra-Compactable Sleeping Bag;
+Stansport Redwood Ultra Light Sleeping Bag (Green, 45-Degree);
+Eureka! Lady Bug Sleeping Bag;
+Eureka Grasshopper Kids 30-Degree Sleeping Bag;
+Coleman Palmetto Cool-Weather Sleeping Bag;
+CATEGORY: TENTS;12
+Wenzel Twin Peaks Sport Dome Tent, Red/Black;
+Wenzel Pine Ridge 10-by-8 Foot Four-to-Five-Person 2-Room Dome Tent;
+Wenzel Alpine 8.5 X 8-Feet Dome Tent (Light Grey/Blue/Gold);
+Kelty Grand Mesa 2-Person Tent (Ruby/Tan);
+Eureka Solo Backcountry 1 Tent;
+"Eureka Apex 2XT Adventure 7' 5"" by 4' 11"" Two-Person Tent";
+Coleman WeatherMaster 8 Tent;
+Coleman Sundome Tent (10-Feet x 10-Feet);
+Coleman SunDome 7-Foot by 7-Foot 3-Person Dome Tent (Orange/Gray);
+Coleman Red Canyon 17-Foot by 10-Foot 8-Person Modified Dome Tent;
+Coleman Instant 14- by 10- Foot 8- Person Two Room Tent;
+Coleman Hooligan 2 Backpacking Tent;
+CATEGORY: TOOLS;10
+Victorinox Swiss Army Tinker and Classic Knife Combo;
+Victorinox Swiss Army Climber II Pocket Knife;
+Victorinox Swiss Army Classic Pocket Knife;
+Victorinox Swiss Army Champion Plus Pocket Knife;
+Leatherman 931009 Bit Driver Extension;
+Leatherman 831207 Style CS Clip-On Multi-Tool with Scissors;
+Leatherman 831195 Squirt PS4 Black Keychain Tool with Plier;
+Leatherman 830040 New Wave Multi-Tool with Nylon Sheath;
+Leatherman 830039 New Wave Multitool with Leather/Nylon Combination Sheath;
+Gerber 01471 Suspension Butterfly Opening Multi-Plier, with Sheath;

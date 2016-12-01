@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<action-sequence> 
+  <title>Wheather conditions TEST</title>
+  <version>1</version>
+  <logging-level>ERROR</logging-level>
+  <documentation> 
+    <author>PDI cookbook</author>  
+    <description>A sample action sequence to demonstrate how to run a transformation</description>  
+    <help/>  
+    <result-type/>  
+    <icon/> 
+  </documentation>
+
+  <inputs> 
+    <city_name type="string"> 
+      <sources> 
+        <request>city_name</request> 
+      </sources>  
+      <default-value/> 
+    </city_name>  
+    <temperature_scale type="string"> 
+      <sources> 
+        <request>temperature_scale</request> 
+      </sources>  
+      <default-value><![CDATA[C]]></default-value> 
+    </temperature_scale>  
+    <scales type="property-map-list"> 
+      <default-value type="property-map-list">
+        <property-map>
+          <entry key="scale">C</entry>
+          <entry key="scale_desc">Celsius</entry>
+        </property-map>
+        <property-map>
+          <entry key="scale">F</entry>
+          <entry key="scale_desc">Farenheit</entry>
+        </property-map>
+      </default-value> 
+    </scales>  
+    <transformation_step type="string"> 
+      <sources> 
+        <request>transformation_step</request> 
+      </sources>  
+      <default-value><![CDATA[current_conditions]]></default-value> 
+    </transformation_step> 
+  </inputs>
+
+  <outputs> 
+    <weather_result type="result-set"/> 
+  </outputs>
+
+  <resources> 
+    <transformation-file> 
+      <solution-file> 
+        <location>weather.ktr</location>  
+        <mime-type>text/plain</mime-type> 
+      </solution-file> 
+    </transformation-file> 
+  </resources>
+  
+  <actions> 
+    <action-definition> 
+      <component-name>SecureFilterComponent</component-name>
+      <action-type>asking city and scale</action-type>
+      <action-inputs> 
+        <city_name type="string"/>  
+        <temperature_scale type="string"/>  
+        <scales type="property-map-list"/> 
+      </action-inputs>
+      <component-definition> 
+        <selections> 
+          <city_name filter="none" style="text-box"> 
+            <title>Enter a city name:</title> 
+          </city_name>  
+          <temperature_scale style="radio"> 
+            <title>Select a scale for the temperature</title>  
+            <filter value-col-name="scale" display-col-name="scale_desc">scales</filter> 
+          </temperature_scale> 
+        </selections> 
+      </component-definition> 
+    </action-definition>
+  
+    <action-definition> 
+      <component-name>KettleComponent</component-name>
+      <action-type>looking for the current weather</action-type>
+      <action-inputs> 
+        <city_name type="string"/>  
+        <temperature_scale type="string"/>  
+        <monitor-step type="string" mapping="transformation_step"/> 
+      </action-inputs>
+      <action-resources> 
+        <transformation-file type="resource"/> 
+      </action-resources>
+      <action-outputs> 
+        <transformation-output-rows type="result-set" mapping="weather_result"/>  
+        <transformation-output-rows-count type="integer" mapping="number_of_rows"/> 
+      </action-outputs>
+      <component-definition> 
+        <kettle-logging-level><![CDATA[Basic]]></kettle-logging-level>  
+        <set-parameter> 
+          <name>TEMP</name>  
+          <mapping>temperature_scale</mapping> 
+        </set-parameter>  
+        <set-argument> 
+          <name>1</name>  
+          <mapping>city_name</mapping> 
+        </set-argument> 
+      </component-definition> 
+    </action-definition>
+  
+    <actions> 
+      <condition><![CDATA[number_of_rows==0]]></condition>  
+      <action-definition> 
+        <component-name>TemplateComponent</component-name>
+        <action-type>Message Template</action-type>
+        <action-inputs> 
+          <city_name type="string"/> 
+        </action-inputs>
+        <action-outputs> 
+          <output-message type="string" mapping="weather_result"/> 
+        </action-outputs>
+        <component-definition> 
+          <template><![CDATA[No results for the city {city_name}]]></template> 
+        </component-definition> 
+      </action-definition>
+ 
+    </actions>
+ 
+  </actions> 
+</action-sequence>

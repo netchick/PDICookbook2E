@@ -1,0 +1,8 @@
+name,birthdate
+Paul,31/12/1969
+Santiago,15/02/2004
+Santiago,15/02/2004
+Lourdes,05/08/1994
+Isabella
+Anna,08/10/1978
+Zoe, 15/01/1975

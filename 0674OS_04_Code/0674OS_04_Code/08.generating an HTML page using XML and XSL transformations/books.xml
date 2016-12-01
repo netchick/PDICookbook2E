@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Books>
+ <Book><title>Carrie </title> <price>$41.00</price> <genre>Fiction</genre> <lastname>King</lastname> <firstname>Stephen</firstname> </Book>
+ <Book><title>Salem&apos;s Lot </title> <price>$33.00</price> <genre>Fiction</genre> <lastname>King</lastname> <firstname>Stephen</firstname> </Book>
+ <Book><title>The Shining </title> <price>$31.00</price> <genre>Fiction</genre> <lastname>King</lastname> <firstname>Stephen</firstname> </Book>
+ <Book><title>The Dead Zone</title> <price>$37.00</price> <genre>Fiction</genre> <lastname>King</lastname> <firstname>Stephen</firstname> </Book>
+ <Book><title>Pet Sematary</title> <price>$41.00</price> <genre>Fiction</genre> <lastname>King</lastname> <firstname>Stephen</firstname> </Book>
+ <Book><title>The Tommyknockers</title> <price>$39.00</price> <genre>Fiction</genre> <lastname>King</lastname> <firstname>Stephen</firstname> </Book>
+ <Book><title>Bag of Bones </title> <price>$40.90</price> <genre>Fiction</genre> <lastname>King</lastname> <firstname>Stephen</firstname> </Book>
+ <Book><title>The Girl with the Dragon Tatoo</title> <price>$37.00</price> <genre>Fiction</genre> <lastname>Larsson</lastname> <firstname>Stieg</firstname> </Book>
+ <Book><title>The Girl who Played with Fire</title> <price>$35.90</price> <genre>Fiction</genre> <lastname>Larsson</lastname> <firstname>Stieg</firstname> </Book>
+ <Book><title>The Girl who Kicked the Hornett&apos;s Nest</title> <price>$39.00</price> <genre>Fiction</genre> <lastname>Larsson</lastname> <firstname>Stieg</firstname> </Book>
+ <Book><title>Star Island</title> <price>$36.00</price> <genre>Fiction</genre> <lastname>Hiaasen</lastname> <firstname>Carl</firstname> </Book>
+ <Book><title>Basket Case</title> <price>$31.00</price> <genre>Fiction</genre> <lastname>Hiaasen</lastname> <firstname>Carl</firstname> </Book>
+ <Book><title>Chelsea Chelsea Bang Bang</title> <price>$25.00</price> <genre>Non-fiction</genre> <lastname>Handler</lastname> <firstname>Chelsea</firstname> </Book>
+ <Book><title>My Horizontal Life</title> <price>$24.00</price> <genre>Non-fiction</genre> <lastname>Handler</lastname> <firstname>Chelsea</firstname> </Book>
+ <Book><title>Are You There, Vodka? It&apos;s me, Chelsea</title> <price>$19.90</price> <genre>Non-fiction</genre> <lastname>Handler</lastname> <firstname>Chelsea</firstname> </Book>
+ <Book><title>The Obama Diaries</title> <price>$28.90</price> <genre>Non-fiction</genre> <lastname>Ingraham</lastname> <firstname>Laura</firstname> </Book>
+ <Book><title>Power to the People</title> <price>$33.00</price> <genre>Non-fiction</genre> <lastname>Ingraham</lastname> <firstname>Laura</firstname> </Book>
+ <Book><title>Rich Dad, Poor Dad</title> <price>$19.90</price> <genre>Business</genre> <lastname>Kiyosaki</lastname> <firstname>Robert</firstname> </Book>
+ <Book><title>Who Took My Money </title> <price>$21.00</price> <genre>Business</genre> <lastname>Kiyosaki</lastname> <firstname>Robert</firstname> </Book>
+ <Book><title>Cashflow Quadrant</title> <price>$25.00</price> <genre>Business</genre> <lastname>Kiyosaki</lastname> <firstname>Robert</firstname> </Book>
+ <Book><title>The Total Money Makeover</title> <price>$25.00</price> <genre>Business</genre> <lastname>Ramsey</lastname> <firstname>Dave</firstname> </Book>
+ <Book><title>The Money Answer Book</title> <price>$31.00</price> <genre>Business</genre> <lastname>Ramsey</lastname> <firstname>Dave</firstname> </Book>
+ <Book><title>Harry Potter and the Philosopher&apos;s Stone</title> <price>$31.00</price> <genre>Childrens</genre> <lastname>Rowling</lastname> <firstname>Joanne</firstname> </Book>
+ <Book><title>Harry Potter and the Chamber of Secrets</title> <price>$32.00</price> <genre>Childrens</genre> <lastname>Rowling</lastname> <firstname>Joanne</firstname> </Book>
+ <Book><title>Harry Potter and the Prisoner of Azkaban</title> <price>$29.00</price> <genre>Childrens</genre> <lastname>Rowling</lastname> <firstname>Joanne</firstname> </Book>
+ <Book><title>Harry Potter and the Goblet of Fire</title> <price>$33.00</price> <genre>Childrens</genre> <lastname>Rowling</lastname> <firstname>Joanne</firstname> </Book>
+ <Book><title>Harry Potter and the Half-Blood Prince</title> <price>$31.00</price> <genre>Childrens</genre> <lastname>Rowling</lastname> <firstname>Joanne</firstname> </Book>
+ <Book><title>Harry Potter and the Order of the Phoenix</title> <price>$32.00</price> <genre>Childrens</genre> <lastname>Rowling</lastname> <firstname>Joanne</firstname> </Book>
+ <Book><title>Harry Potter and the Deathly Hallows</title> <price>$38.00</price> <genre>Childrens</genre> <lastname>Rowling</lastname> <firstname>Joanne</firstname> </Book>
+ <Book><title>The Lightning Thief </title> <price>$29.00</price> <genre>Childrens</genre> <lastname>Riordan</lastname> <firstname>Rick</firstname> </Book>
+ <Book><title>The Sea of Monsters</title> <price>$28.00</price> <genre>Childrens</genre> <lastname>Riordan</lastname> <firstname>Rick</firstname> </Book>
+ <Book><title>The Battle of the Labyrinth</title> <price>$30.00</price> <genre>Childrens</genre> <lastname>Riordan</lastname> <firstname>Rick</firstname> </Book>
+ <Book><title>The Sea of Monsters</title> <price>$31.00</price> <genre>Childrens</genre> <lastname>Riordan</lastname> <firstname>Rick</firstname> </Book>
+ <Book><title>The Last Olympian </title> <price>$29.00</price> <genre>Childrens</genre> <lastname>Riordan</lastname> <firstname>Rick</firstname> </Book>
+</Books>

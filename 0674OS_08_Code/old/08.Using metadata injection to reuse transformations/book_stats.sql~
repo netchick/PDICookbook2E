@@ -1,0 +1,7 @@
+CREATE  TABLE `books`.`book_stats` (
+  `book_stats_id` INT NOT NULL AUTO_INCREMENT ,
+  `book_title` VARCHAR(45) NULL ,
+  `book_count` INT NULL ,
+  `book_average` VARCHAR(45) NULL ,
+  PRIMARY KEY (`book_stats_id`) )
+ENGINE = InnoDB;

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CDADescriptor>
+   <DataSources>
+      <Connection id="weather_cda" type="kettle.TransFromFile">
+         <KtrFile>weather_cda.ktr</KtrFile>
+         <variables datarow-name="CITY"/>
+         <variables datarow-name="TEMP"/>
+      </Connection>
+   </DataSources>
+   
+   <DataAccess access="public" cache="true" cacheDuration="3600" connection="weather_cda"
+               id="forecast"
+               type="kettle">
+      <Columns/>
+      <Parameters>
+         <Parameter default="Lisbon, Portugal" name="CITY" type="String"/>
+      </Parameters>
+      <Query>next_days</Query>
+      <Output indexes="0,1,2,3"/>
+   </DataAccess>
+   <DataAccess access="public" cache="true" cacheDuration="3600" connection="weather_cda"
+               id="current"
+               type="kettle">
+      <Columns/>
+      <Parameters>
+         <Parameter default="Lisbon, Portugal" name="CITY" type="String"/>
+         <Parameter default="C" name="TEMP" type="String"/>
+      </Parameters>
+      <Query>current_conditions</Query>
+      <Output indexes="0,1"/>
+   </DataAccess>
+</CDADescriptor>

@@ -1,0 +1,12 @@
+<museums>
+ <museum id_museum= '100'> <name>Galleria Sabauda</name> <city>Turin               </city> <country>Italy               </country> </museum>
+ <museum id_museum= '101'> <name>GAM - Galleria Civica d&apos;Arte Moderna e Contemporanea</name> <city>Turin               </city> <country>Italy               </country> </museum>
+ <museum id_museum= '102'> <name>Palazzo Bricherasio</name> <city>Turin               </city> <country>Italy               </country> </museum>
+ <museum id_museum= '103'> <name>Palazzo Cavour</name> <city>Turin               </city> <country>Italy               </country> </museum>
+ <museum id_museum= '104'> <name>Peggy Guggenheim Collection</name> <city>Venice              </city> <country>Italy               </country> </museum>
+ <museum id_museum= '105'> <name>Ca&apos; Rezzonico - Museo del Settecento Veneziano</name> <city>Venice              </city> <country>Italy               </country> </museum>
+ <museum id_museum= '106'> <name>Fondazione Bevilacqua La Masa</name> <city>Venice              </city> <country>Italy               </country> </museum>
+ <museum id_museum= '107'> <name>Gallerie dell&apos;Accademia</name> <city>Venice              </city> <country>Italy               </country> </museum>
+ <museum id_museum= '108'> <name>Museo Ca&apos; Pesaro</name> <city>Venice              </city> <country>Italy               </country> </museum>
+ <museum id_museum= '109'> <name>Museo Correr</name> <city>Venice              </city> <country>Italy               </country> </museum>
+ </museums>

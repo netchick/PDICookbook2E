@@ -1,0 +1,9 @@
+title;author_id;price;title_id;genre
+Bag of Bones;A00002;51,99;123-353;Fiction
+Basket Case;A00003;31,00;123-506;Fiction
+Carrie;A00002;41,00;123-346;Fiction
+Cashflow Quadrant;A00007;55,00;323-604;Business
+Harry Potter and the Half-Blood Prince;A00008;61,00;423-005;Childrens
+Harry Potter and the Prisoner of Azkaban;A00008;29,00;423-003;Childrens
+Power to the People;A00005;33,00;223-302;Non-fiction
+Who Took My Money;A00007;21,00;323-603;Business

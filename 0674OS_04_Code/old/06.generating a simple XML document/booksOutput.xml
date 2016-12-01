@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Books>
+ <Book><id_title>123-346</id_title> <title>Carrie </title> <genre>Fiction</genre> <price>&#x24;41.00</price> <author>King, Stephen</author> </Book>
+ <Book><id_title>123-347</id_title> <title>Salem&#x27;s Lot </title> <genre>Fiction</genre> <price>&#x24;33.00</price> <author>King, Stephen</author> </Book>
+ <Book><id_title>123-348</id_title> <title>The Shining </title> <genre>Fiction</genre> <price>&#x24;31.00</price> <author>King, Stephen</author> </Book>
+ <Book><id_title>123-349</id_title> <title>The Dead Zone</title> <genre>Fiction</genre> <price>&#x24;37.00</price> <author>King, Stephen</author> </Book>
+ <Book><id_title>123-351</id_title> <title>Pet Sematary</title> <genre>Fiction</genre> <price>&#x24;41.00</price> <author>King, Stephen</author> </Book>
+ <Book><id_title>123-352</id_title> <title>The Tommyknockers</title> <genre>Fiction</genre> <price>&#x24;39.00</price> <author>King, Stephen</author> </Book>
+ <Book><id_title>123-353</id_title> <title>Bag of Bones </title> <genre>Fiction</genre> <price>&#x24;40.90</price> <author>King, Stephen</author> </Book>
+ <Book><id_title>123-400</id_title> <title>The Girl with the Dragon Tatoo</title> <genre>Fiction</genre> <price>-&#x24;5.00</price> <author>Larsson, Stieg</author> </Book>
+ <Book><id_title>123-401</id_title> <title>The Girl who Played with Fire</title> <genre>Fiction</genre> <price>&#x24;35.90</price> <author>Larsson, Stieg</author> </Book>
+ <Book><id_title>123-402</id_title> <title>The Girl who Kicked the Hornett&#x27;s Nest</title> <genre>Fiction</genre> <price>&#x24;39.00</price> <author>Larsson, Stieg</author> </Book>
+ <Book><id_title>123-506</id_title> <title>Basket Case</title> <genre>Fiction</genre> <price>&#x24;31.00</price> <author>Hiaasen, Carl</author> </Book>
+ <Book><id_title>123505</id_title> <title>Star Island</title> <genre>Fiction</genre> <price>&#x24;36.00</price> <author>Hiaasen, Carl</author> </Book>
+ <Book><id_title>223-200</id_title> <title>Chelsea Chelsea Bang Bang</title> <genre>Non-fiction</genre> <price>&#x24;25.00</price> <author>Handler, Chelsea</author> </Book>
+ <Book><id_title>223-201</id_title> <title>My Horizontal Life</title> <genre>Non-fiction</genre> <price>&#x24;24.00</price> <author>Handler, Chelsea</author> </Book>
+ <Book><id_title>223-202</id_title> <title>Are You There, Vodka&#x3f; It&#x27;s me, Chelsea</title> <genre>Non-fiction</genre> <price>&#x24;19.90</price> <author>Handler, Chelsea</author> </Book>
+ <Book><id_title>223-301</id_title> <title>The Obama Diaries</title> <genre>Non-fiction</genre> <price>&#x24;28.90</price> <author>Ingraham, Laura</author> </Book>
+ <Book><id_title>223-302</id_title> <title>Power to the People</title> <genre>Non-fiction</genre> <price>&#x24;33.00</price> <author>Ingraham, Laura</author> </Book>
+ <Book><id_title>323-602</id_title> <title>Rich Dad, Poor Dad</title> <genre>Business</genre> <price>&#x24;19.90</price> <author>Kiyosaki, Robert</author> </Book>
+ <Book><id_title>323-603</id_title> <title>Who Took My Money </title> <genre>Business</genre> <price>&#x24;21.00</price> <author>Kiyosaki, Robert</author> </Book>
+ <Book><id_title>323-604</id_title> <title>Cashflow Quadrant</title> <genre>Business</genre> <price>&#x24;25.00</price> <author>Kiyosaki, Robert</author> </Book>
+ <Book><id_title>323-820</id_title> <title>The Total Money Makeover</title> <genre>Business</genre> <price>&#x24;25.00</price> <author>Ramsey, Dave</author> </Book>
+ <Book><id_title>323-821</id_title> <title>The Money Answer Book</title> <genre>Business</genre> <price>&#x24;31.00</price> <author>Ramsey, Dave</author> </Book>
+ <Book><id_title>423-001</id_title> <title>Harry Potter and the Philosopher&#x27;s Stone</title> <genre>Childrens</genre> <price>&#x24;31.00</price> <author>Rowling, Joanne</author> </Book>
+ <Book><id_title>423-002</id_title> <title>Harry Potter and the Chamber of Secrets</title> <genre>Childrens</genre> <price>&#x24;32.00</price> <author>Rowling, Joanne</author> </Book>
+ <Book><id_title>423-003</id_title> <title>Harry Potter and the Prisoner of Azkaban</title> <genre>Childrens</genre> <price>&#x24;29.00</price> <author>Rowling, Joanne</author> </Book>
+ <Book><id_title>423-004</id_title> <title>Harry Potter and the Goblet of Fire</title> <genre>Childrens</genre> <price>&#x24;33.00</price> <author>Rowling, Joanne</author> </Book>
+ <Book><id_title>423-005</id_title> <title>Harry Potter and the Half-Blood Prince</title> <genre>Childrens</genre> <price>&#x24;31.00</price> <author>Rowling, Joanne</author> </Book>
+ <Book><id_title>423-006</id_title> <title>Harry Potter and the Order of the Phoenix</title> <genre>Childrens</genre> <price>&#x24;32.00</price> <author>Rowling, Joanne</author> </Book>
+ <Book><id_title>423-007</id_title> <title>Harry Potter and the Deathly Hallows</title> <genre>Childrens</genre> <price>&#x24;38.00</price> <author>Rowling, Joanne</author> </Book>
+ <Book><id_title>423-101</id_title> <title>The Lightning Thief </title> <genre>Childrens</genre> <price>&#x24;29.00</price> <author>Riordan, Rick</author> </Book>
+ <Book><id_title>423-102</id_title> <title>The Sea of Monsters</title> <genre>Childrens</genre> <price>&#x24;28.00</price> <author>Riordan, Rick</author> </Book>
+ <Book><id_title>423-103</id_title> <title>The Battle of the Labyrinth</title> <genre>Childrens</genre> <price>&#x24;30.00</price> <author>Riordan, Rick</author> </Book>
+ <Book><id_title>423-104</id_title> <title>The Sea of Monsters</title> <genre>Childrens</genre> <price>&#x24;31.00</price> <author>Riordan, Rick</author> </Book>
+ <Book><id_title>423-105</id_title> <title>The Last Olympian </title> <genre>Childrens</genre> <price>&#x24;29.00</price> <author>Riordan, Rick</author> </Book>
+</Books>

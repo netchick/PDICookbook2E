@@ -1,0 +1,31 @@
+<museums>
+ <museum id_museum= '1' <name>Fundacion Federico Klemm</name> <city>Buenos Aires        </city> <country>Argentina           </country> </museum>
+ <museum id_museum= '2'> <name>Fundacion Proa</name> <city>Buenos Aires        </city> <country>Argentina           </country> </museum>
+ <museum id_museum= '3'> <name>Museo de Arte Latinoamericano</name> <city>Buenos Aires        </city> <country>Argentina           </country> </museum>
+ <museum id_museum= '4'> <name>Museo Nacional de Bellas Artes</name> <city>Buenos Aires        </city> <country>Argentina           </country> </museum>
+ <museum id_museum= '5'> <name>Xul Solar Museum</name> <city>Buenos Aires        </city> <country>Argentina           </country> </museum>
+ <museum id_museum= '6'> <name>Museu de Arte Contemporanea de Niteroi</name> <city>Niteroi             </city> <country>Brazil              </country> </museum>
+ <museum id_museum= '7'> <name>Museu de Arte Contemporanea do Parana</name> <city>Parana              </city> <country>Brazil              </country> </museum>
+ <museum id_museum= '8'> <name>Museu de Arte Moderna</name> <city>Rio de Janeiro      </city> <country>Brazil              </country> </museum>
+ <museum id_museum= '9'> <name>Museu Nacional de Belas Artes</name> <city>Rio de Janeiro      </city> <country>Brazil              </country> </museum>
+ <museum id_museum= '10'> <name>Carlos Costa Pinto Museum</name> <city>Salvador            </city> <country>Brazil              </country> </museum>
+ <museum id_museum= '11'> <name>Itau Cultural</name> <city>Sao Paulo           </city> <country>Brazil              </country> </museum>
+ <museum id_museum= '12'> <name>Lasar Segall Museum</name> <city>Sao Paulo           </city> <country>Brazil              </country> </museum>
+ <museum id_museum= '13'> <name>Museu de Arte Brasileira</name> <city>Sao Paulo           </city> <country>Brazil              </country> </museum>
+ <museum id_museum= '14'> <name>Museu de Arte Contemporanea da Universidade de Sao Paulo</name> <city>Sao Paulo           </city> <country>Brazil              </country> </museum>
+ <museum id_museum= '15'> <name>Museu de Arte de Sao Paulo</name> <city>Sao Paulo           </city> <country>Brazil              </country> </museum>
+ <museum id_museum= '16'> <name>Museu de Arte Moderna</name> <city>Sao Paulo           </city> <country>Brazil              </country> </museum>
+ <museum id_museum= '17'> <name>Museo Chileno de Arte Precolombino</name> <city>Santiago            </city> <country>Chile               </country> </museum>
+ <museum id_museum= '18'> <name>Museo Nacional de Bellas Artes</name> <city>Santiago            </city> <country>Chile               </country> </museum>
+ <museum id_museum= '19'> <name>Biblioteca Luis Angel Arango</name> <city>Bogota              </city> <country>Colombia            </country> </museum>
+ <museum id_museum= '20'> <name>El Museo del Oro</name> <city>Bogota              </city> <country>Colombia            </country> </museum>
+ <museum id_museum= '21'> <name>El Museo de Arte Costarricense</name> <city>San Jose            </city> <country>Costa Rica          </country> </museum>
+ <museum id_museum= '22'> <name>Museo Nacional de Bellas Artes</name> <city>Havana              </city> <country>Cuba                </country> </museum>
+ <museum id_museum= '23'> <name>MARTE, Museo de Arte de El Salvador</name> <city>San Salvador        </city> <country>El Salvador         </country> </museum>
+ <museum id_museum= '24'> <name>Carillo Gil Museum of Contemporary Art</name> <city>Mexico City         </city> <country>Mexico              </country> </museum>
+ <museum id_museum= '25'> <name>La Casa Azul, Museo Frida Kahlo</name> <city>Mexico City         </city> <country>Mexico              </country> </museum>
+ <museum id_museum= '26'> <name>Museo Casa Estudio Diego Rivera y Frida Kahlo</name> <city>Mexico City         </city> <country>Mexico              </country> </museum>
+ <museum id_museum= '27'> <name>Museo de Arte Moderno</name> <city>Mexico City         </city> <country>Mexico              </country> </museum>
+ <museum id_museum= '28'> <name>Museo Diego Rivera - Anahuacalli</name> <city>Mexico City         </city> <country>Mexico              </country> </museum>
+ <museum id_museum= '29'> <name>Museo Dolores Olmedo</name> <city>Mexico City         </city> <country>Mexico              </country> </museum>
+ </museums>
